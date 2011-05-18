@@ -24,8 +24,11 @@ SOFTWARE.
 
 package org.json.me;
 
-import java.io.IOException;
-import java.io.Writer;
+import org.json.me.totalcross.Writer;
+
+import totalcross.io.IOException;
+
+
 
 /**
  * A simple StringBuffer-based implementation of StringWriter
